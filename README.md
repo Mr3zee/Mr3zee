@@ -10,5 +10,5 @@ Single-handedly managed the successful upgrade and deployment of the new environ
 
 ## 🧮 Stats
 
-[![Mr3zee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr3zee&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&bg_color=D94D1C&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)     		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr3zee&title_color=ffffff&bg_color=0B814D&text_color=ffffff&icon_color=ffffff&layout=default&card_width=300&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Mr3zee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr3zee&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&bg_color=D94D1C&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr3zee&title_color=ffffff&bg_color=0B814D&text_color=ffffff&icon_color=ffffff&layout=default&card_width=300&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
