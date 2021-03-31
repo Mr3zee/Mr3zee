@@ -2,7 +2,7 @@
 
 ## 💡 About me 
 
-Single-handedly managed the successful upgrade and deployment of the new environmental illumination system with cost overruns and zero safety incidents. 
+Single-handedly managed the successful upgrade and deployment of the new environmental illumination system with zero cost overruns and zero safety incidents. 
 
 ## ⚙️ Skills && Tools
 
